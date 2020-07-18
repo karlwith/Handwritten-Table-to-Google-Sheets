@@ -10,6 +10,8 @@ The formatting method included to parse the single string response of the google
 conforms to the style including semi colons and plus characters as detailed in Images/BuildBook01.jpg. A future improvement 
 could include creating a printable template to increase the reliability of the OCR formatting and streamline handwriting.
 
+API credential files not included in repository.
+
 To Do:
 Finish upload_to_google_sheet method.
 Host on as a web app on google cloud / app engine to facilitate the use of mobile phone to take the picture and run the program.
